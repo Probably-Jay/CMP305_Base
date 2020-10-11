@@ -1,0 +1,6 @@
+﻿  App1.cpp
+D:\MyDocuments\Uni 20-21\CMP305-procedural\CMP305_Base\CMP305_Base\App1.cpp(150,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MyDocuments\Uni 20-21\CMP305-procedural\CMP305_Base\CMP305_Base\App1.cpp(156,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MyDocuments\Uni 20-21\CMP305-procedural\CMP305_Base\CMP305_Base\App1.cpp(162,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MyDocuments\Uni 20-21\CMP305-procedural\CMP305_Base\CMP305_Base\App1.cpp(168,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CMP305_Base.vcxproj -> D:\MyDocuments\Uni 20-21\CMP305-procedural\CMP305_Base\x64\Debug\CMP305_Base.exe
